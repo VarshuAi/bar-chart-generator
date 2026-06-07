@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Instantly plot vertical bar metrics from custom lists.
+  name: bar-chart-generator version: 1.0 type: Repository author: VarshuAi description: >   Instantly plot vertical bar metrics from custom lists. primary_tech: CSS
 primary_tech: CSS
 ```
 
